@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/github/license/Nesmaldq/MT-VideoCompress)
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/KLM_BOTS)
 
-A Telegram Video Compressor Bot By [@BRUNOKLM](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [@BRUNOKLM](https://t.me/BRUNOKLM). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
