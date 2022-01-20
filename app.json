@@ -9,9 +9,7 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-  "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-  "repository": "https://github.com/MRK-YT/MT-VideoCompress",
+  "repository": "https://github.com/Nesmaldq/MT-VideoCompress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -67,7 +65,7 @@
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
-      "value": "Mo_Tech_YT",
+      "value": "BRUNO_KLM",
       "required": false
     }
   },
